@@ -1,6 +1,6 @@
 # Salt n Peppa Practice
 
-Check out this sweet repo!
+Check out this sweet repo! We're going to use it to practice Forking a repo, Cloning a repo, and making a Pull request.
 
 ## Goals
 
